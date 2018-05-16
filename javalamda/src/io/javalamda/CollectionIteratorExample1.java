@@ -25,6 +25,8 @@ public class CollectionIteratorExample1 {
 		
 		people.forEach(System.out :: println);
 		
+		System.out.println("git checkin from eclipse");
+		
 
 	}
 
